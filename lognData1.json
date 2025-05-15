@@ -1,0 +1,24 @@
+[
+  {
+    "login_id": "jsek",
+    "user_given_name": "john",
+    "user_last_name": "sek",
+    "tel": 90455538,
+    "email": {
+      "text": "johnsek@gmail.com",
+      "hyperlink": "mailto:johnsek@gmail.com"
+    },
+    "reg_date": "2025-05-01T00:00:00.000Z"
+  },
+  {
+    "login_id": "pchan",
+    "user_given_name": "peter",
+    "user_last_name": "chan",
+    "tel": 98765432,
+    "email": {
+      "text": "pchan@pchan.com",
+      "hyperlink": "mailto:pchan@pchan.com"
+    },
+    "reg_date": "2025-05-10T00:00:00.000Z"
+  }
+]
