@@ -1,0 +1,18 @@
+[
+  {
+    "email": {
+      "text": "john@jchome.com",
+      "hyperlink": "mailto:john@jchome.com"
+    },
+    "userName": "John Sek",
+    "password": 123456
+  },
+  {
+    "email": {
+      "text": "user1@test.com",
+      "hyperlink": "mailto:user1@test.com"
+    },
+    "userName": "Test User1",
+    "password": 123456
+  }
+]
